@@ -12,7 +12,7 @@ Os dados consumidos são tratados, processados e disponibilizados via script web
 | **Frontend/App** | **Streamlit** | `1.30.0` | Framework para desenvolvimento de aplicativo web |
 | **Análise de Dados** | **Pandas** | `2.2.1` | Biblioteca para manipulação de dados |
 | **Visualização** | **Plotly** |`5.20.0` | Biblioteca para criação de gráficos dinâmicos e interativos |
-| **ML** | **Statsforecast** | `1.6.0` | Biblioteca para desenvolvimento de modelos |
+| **ML** | **Statsforecast** | `1.6.0` | Biblioteca para desenvolvimento de modelos de ML |
 | **Banco de Dados** | **PostgreSQL** | `16` | SGBD para armazenamento de dados |
 | **Linguagem** | **Python** | `-` | Linguagem para desenvolvimento de scripts |
 | **Gerenciamento** | **Venv** | `-` | Gerenciador de ambientes virtuais para isolamento de dependências |
@@ -29,7 +29,7 @@ Link para a série histórica do dólar: http://www.ipeadata.gov.br/ExibeSerie.a
 
 O projeto conta com um aplicativo web (MVP) desenvolvido com Streamlit e um dashboard Power BI que disponibiliza a série histórica, o forecast semanal outras métricas para análise e tomada de decisão. 
 
-Link para o aplicativo (MVP): https://postechtechchallengefase4-ceqwpwmwrl4eucsnvjjsjm.streamlit.app/
+Link para o aplicativo web (MVP): https://postechtechchallengefase4-ceqwpwmwrl4eucsnvjjsjm.streamlit.app/
 
 Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjcxNGZlNmYtMDI4OS00NmJiLTk3Y2EtMWMyZWEyZWJmMTA4IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
 
