@@ -6,7 +6,7 @@ Os dados consumidos são tratados, processados e disponibilizados via script web
 
 ### Tecnologias
 
-| Componente | Tecnologia | Versão (Especificada) | Descrição |
+| Componente | Tecnologia | Versão | Descrição |
 | :--- | :--- | :--- | :--- |
 | **Plataforma BI** | **Power BI** | `-` | Plataforma de BI utilizada para o desenvolvimento do dashboard |
 | **Frontend/App** | **Streamlit** | `1.30.0` | Framework utilizado para o desenvolvimento do MVP |
@@ -26,7 +26,7 @@ Link para a série histórica do dólar: http://www.ipeadata.gov.br/ExibeSerie.a
 
 O projeto conta com um MVP desenvolvido com Streamlit e um dashboard Power BI que disponibiliza a série histórica, o forecast semanal outras métricas para análise e tomada de decisão. 
 
-Link para o MVP: https://postechtechchallengefase4-ceqwpwmwrl4eucsnvjjsjm.streamlit.app/
+Link para o aplicativo MVP: https://postechtechchallengefase4-ceqwpwmwrl4eucsnvjjsjm.streamlit.app/
 
 Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjcxNGZlNmYtMDI4OS00NmJiLTk3Y2EtMWMyZWEyZWJmMTA4IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
 
