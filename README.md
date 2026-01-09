@@ -8,7 +8,7 @@ Os dados consumidos são tratados, processados e disponibilizados via script web
 
 | Componente | Tecnologia | Versão | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Plataforma BI** | **Power BI** | `-` | Plataforma de BI para o desenvolvimento de dashboards |
+| **Plataforma BI** | **Power BI** | `-` | Plataforma de BI para desenvolvimento de dashboards |
 | **Frontend/App** | **Streamlit** | `1.30.0` | Framework para desenvolvimento de aplicativo web |
 | **Análise de Dados** | **Pandas** | `2.2.1` | Biblioteca para manipulação de dados |
 | **Visualização** | **Plotly** |`5.20.0` | Biblioteca para criação de gráficos dinâmicos e interativos |
