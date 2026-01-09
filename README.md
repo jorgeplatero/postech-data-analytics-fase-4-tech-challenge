@@ -1,7 +1,5 @@
 # Dashboard com Modelo Preditivo de Preço do Petróleo Brent
 
-![logo do projeto](https://github.com/jorgeplatero/postech_techchallenge_fase_4/assets/99737345/2aa76bfc-1d97-4916-8de5-cc17b40d64ed)
-
 Este projeto tem por objetivo o desenvolvimento de um dashboard interativo capaz de gerar insights relevantes para tomada de decisão no que diz respeito ao negócio do petróleo brent, o que inclui a implementação de um modelo de Machine Learning que traga o forecasting dos preços.
 
 ### Descrição do Projeto
@@ -22,11 +20,11 @@ Abaixo estão listadas as tecnologias utilizadas no desenvolvimento da solução
 
 | Componente | Tecnologia | Versão (Especificada) | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Frontend/App** | **Power BI** | `-` | Dashboard interativo para análise de indicadores e tomada de decisão. |
-| **Frontend/App** | **Streamlit** | `1.30.0` | Framework utilizado para o MVP. |
-| **Machine Learning** | **Statsforecast** | `1.6.0` | Biblioteca utilizada para a implementação do modelo AutoARIMA. |
-| **Banco de Dados** | **PostgreSQL** | `16` | SGBD para armazenamento dos dados. |
-| **Ambiente** | **Python** | `-` | Linguagem base para desenvolvimento do script e modelos. |
+| **Plataforma BI** | **Power BI** | `-` | Plataforma de BI utilizada para o desenvolvimento do dashboard |
+| **Frontend/App** | **Streamlit** | `1.30.0` | Framework utilizado para o desenvolvimento do MVP |
+| **Machine Learning** | **Statsforecast** | `1.6.0` | Biblioteca utilizada para  o desenvolvimento do modelo |
+| **Banco de Dados** | **PostgreSQL** | `16` | SGBD para armazenamento dos dados |
+| **Linguagem** | **Python** | `-` | Linguagem de programação base para o desenvolvimento dos scripts |
 
 ### Fontes de Dados
 
