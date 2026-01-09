@@ -16,13 +16,22 @@ Os dados consumidos são tratados, processados e disponibilizados via script web
 
 ### Fontes de Dados
 
-Os dados utilizados neste projeto estão disponibilizados no site do IPEA (Instituto de Pesquisa Econômica Aplicada), que disponibiliza os [preços](http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view) por barril do petróleo bruto tipo Brent, negociados em dias úteis, não incluindo despesa de frete e seguro. Também obteve-se a [série histórica](http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=38590&module=M) do preço do dólar para o mesmo período.
+Os dados utilizados neste projeto estão disponibilizados no site do IPEA (Instituto de Pesquisa Econômica Aplicada), que disponibiliza os preços por barril do petróleo bruto tipo Brent, negociados em dias úteis, não incluindo despesa de frete e seguro. Também obteve-se a série histórica do preço do dólar para o mesmo período.
+
+Link para a base de dados do IPEA: http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view
+
+Link para a série histórica do dólar: http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=38590&module=M
 
 ### Deploy
 
-O projeto conta com um [MVP](https://postechtechchallengefase4-ceqwpwmwrl4eucsnvjjsjm.streamlit.app/) desenvolvido com Streamlit e um [dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjcxNGZlNmYtMDI4OS00NmJiLTk3Y2EtMWMyZWEyZWJmMTA4IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9) Power BI que disponibiliza a série histórica, o forecast semanal outras métricas para análise e tomada de decisão. 
+O projeto conta com um MVP desenvolvido com Streamlit e um dashboard Power BI que disponibiliza a série histórica, o forecast semanal outras métricas para análise e tomada de decisão. 
+
+Link para o MVP: https://postechtechchallengefase4-ceqwpwmwrl4eucsnvjjsjm.streamlit.app/
+
+Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjcxNGZlNmYtMDI4OS00NmJiLTk3Y2EtMWMyZWEyZWJmMTA4IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
 
 ### Colaboradores
 
-* [Mateus Albuquerque](https://github.com/mateus-albuquerque)
-* [Adrielly Silva](https://github.com/adriellytsilva)
+[Mateus Albuquerque](https://github.com/mateus-albuquerque)
+
+[Adrielly Silva](https://github.com/adriellytsilva)
