@@ -13,6 +13,7 @@ Os dados consumidos são tratados, processados e disponibilizados via script web
 | **ML** | **Statsforecast** | `1.6.0` | Biblioteca utilizada para  o desenvolvimento do modelo |
 | **Banco de Dados** | **PostgreSQL** | `16` | SGBD para armazenamento dos dados |
 | **Linguagem** | **Python** | `-` | Linguagem de programação base para o desenvolvimento dos scripts |
+| **Gerenciamento** | **Venv** | `-` | Gerenciador de ambientes virtuais para isolamento de dependências |
 
 ### Fontes de Dados
 
