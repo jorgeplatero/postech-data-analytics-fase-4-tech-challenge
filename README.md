@@ -8,13 +8,13 @@ Os dados consumidos são tratados, processados e disponibilizados via script web
 
 | Componente | Tecnologia | Versão | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Plataforma BI** | **Power BI** | `-` | Plataforma de BI utilizada para o desenvolvimento do dashboard |
-| **Frontend/App** | **Streamlit** | `1.30.0` | Framework utilizado para o desenvolvimento do aplicativo web |
-| **Análise de Dados** | **Pandas** | `2.2.1` | Biblioteca utilizada para manipulação de dados |
+| **Plataforma BI** | **Power BI** | `-` | Plataforma de BI para o desenvolvimento de dashboards |
+| **Frontend/App** | **Streamlit** | `1.30.0` | Framework para desenvolvimento de aplicativo web |
+| **Análise de Dados** | **Pandas** | `2.2.1` | Biblioteca para manipulação de dados |
 | **Visualização** | **Plotly** |`5.20.0` | Biblioteca para criação de gráficos dinâmicos e interativos |
-| **ML** | **Statsforecast** | `1.6.0` | Biblioteca utilizada para  o desenvolvimento do modelo |
-| **Banco de Dados** | **PostgreSQL** | `16` | SGBD para armazenamento dos dados |
-| **Linguagem** | **Python** | `-` | Linguagem de programação base para o desenvolvimento dos scripts |
+| **ML** | **Statsforecast** | `1.6.0` | Biblioteca para desenvolvimento de modelos |
+| **Banco de Dados** | **PostgreSQL** | `16` | SGBD para armazenamento de dados |
+| **Linguagem** | **Python** | `-` | Linguagem para desenvolvimento de scripts |
 | **Gerenciamento** | **Venv** | `-` | Gerenciador de ambientes virtuais para isolamento de dependências |
 
 ### Fontes de Dados
